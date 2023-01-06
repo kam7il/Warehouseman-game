@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magazynier", "Magazynier\Magazynier.csproj", "{067652BB-2562-4661-B438-A62CC2467509}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{067652BB-2562-4661-B438-A62CC2467509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067652BB-2562-4661-B438-A62CC2467509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067652BB-2562-4661-B438-A62CC2467509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067652BB-2562-4661-B438-A62CC2467509}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {127186D4-EA1F-4F49-9B09-9A73A1399743}
+	EndGlobalSection
+EndGlobal
